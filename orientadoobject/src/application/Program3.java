@@ -23,7 +23,7 @@ public class Program3 {
 		double percentage = sc.nextDouble();
 		employee.increaseSalary(percentage);
 		
-		System.out.println("Update data:" + employee);
+		System.out.println("Update data...:" + employee);
 		
 		
 		sc.close();
