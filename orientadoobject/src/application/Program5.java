@@ -1,5 +1,4 @@
 package application;
-import entities.Calculator;
 import entities.CurrencyConverter;
 
 import java.util.Locale;
